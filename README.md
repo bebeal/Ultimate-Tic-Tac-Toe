@@ -23,7 +23,3 @@ The objective is to win 3 local boards in a row. The game ends in a tie if nobod
 * Maven - Dependency Management
     * launch4j - Cross-platform Java executable wrapper
 * JavaFX - GUI Library for Java
-
-## Future Updates
-* A home page screen to play/change settings in the game
-* An option to play against a bot using a min/max algorithm
